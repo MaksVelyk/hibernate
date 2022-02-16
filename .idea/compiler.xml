@@ -9,6 +9,7 @@
         <module name="spring-Maksym" />
         <module name="ToolStore" />
         <module name="hibernate-Maksym" />
+        <module name="Maksym_velyk_hibernate" />
         <module name="Cookware Store" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Cookware Store" options="-parameters" />
+      <module name="Maksym_velyk_hibernate" options="-parameters" />
       <module name="ToolStore" options="-parameters" />
       <module name="hibernate-Maksym" options="-parameters" />
       <module name="spring-Maksym" options="-parameters" />
